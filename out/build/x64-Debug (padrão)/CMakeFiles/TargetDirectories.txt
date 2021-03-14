@@ -1,0 +1,5 @@
+C:/Users/windk/source/repos/TrejetoriaBalistica1/out/build/x64-Debug (padrão)/CMakeFiles/edit_cache.dir
+C:/Users/windk/source/repos/TrejetoriaBalistica1/out/build/x64-Debug (padrão)/CMakeFiles/rebuild_cache.dir
+C:/Users/windk/source/repos/TrejetoriaBalistica1/out/build/x64-Debug (padrão)/TrejetoriaBalistica1/CMakeFiles/rebuild_cache.dir
+C:/Users/windk/source/repos/TrejetoriaBalistica1/out/build/x64-Debug (padrão)/TrejetoriaBalistica1/CMakeFiles/TrejetoriaBalistica1.dir
+C:/Users/windk/source/repos/TrejetoriaBalistica1/out/build/x64-Debug (padrão)/TrejetoriaBalistica1/CMakeFiles/edit_cache.dir
